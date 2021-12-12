@@ -8,7 +8,7 @@ App.zip obsahuje WindowsFormsApp.exe, kterým jde aplikace rovnou spustit bez Bu
 Návod:
 
 1. Pro spuštění aplikace je potřeba být ve školní sítí, případně použít VPN do školní sítě ( https://idoc.vsb.cz/xwiki/bin/view/tuonet/vpn/ ).
-2. Pokud nepůjde aplikace spustit z App.zip, tak se musí stáhnout celý projekt MobilObchod.zip, otevřít solution ve Visual Studiu a nastavit, který projekt se má spouštět -> vybrat WindowsFormApp ( V comboboxu zvolit daný projekt).
+2. Pokud nepůjde aplikace spustit z App.zip, tak se musí stáhnout celý projekt MobilObchod.zip, otevřít solution .sln ve Visual Studiu a nastavit, který projekt se má spouštět -> vybrat WindowsFormApp ( V comboboxu zvolit daný projekt).
 3. Po zapnutí aplikace naběhne přihlašovací obrazovka, kde stačí do pole "Ověřovací kod" napsat "Admin" a dostanete se do hlavní nabídky jako Administrátor.
 4. Dále už je možné s aplikací pracovat podle GUI.
 
